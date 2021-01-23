@@ -1,0 +1,92 @@
+html,
+body,
+ul,
+ol,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, serif, "Gill Sans", sans-serif, cursive, system-ui;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #2c3e50;
+}
+button,input {
+	border: none;
+	padding: 5px 20px;
+	font-size: 1rem;
+}
+.new-mimesis-title {
+  padding: 10px;
+  border-radius: 20px;
+  background: #e0e0e0;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
+.new-mimesis-button {
+	border-radius: 50px;
+	background: linear-gradient(225deg, #4368ac, #4f7bcc);
+	box-shadow:  3px 5px 5px #213456, 5px 6px 5px #73b2ff
+}
+.new-mimesis-button:hover {
+	color: #ccc;
+}
+/* 通用边距 */
+.m-bottom {
+	margin-bottom: 10px;
+}
+.clearfix {
+  clear: both;
+}
+@media (max-width: 640px) {
+  .xs-hidden {
+    display: none;
+  }
+  .xs-center {
+    text-align: center;
+    float: none !important;
+  }
+  .xs-float-right {
+    float: right !important;
+  }
+  .xs-float-left {
+    float: left !important;
+  }
+  .xs-position-zero {
+    margin-left: 0 !important;
+  }
+}
+@media (max-width: 845px) {
+  .md-hidden {
+    display: none;
+  }
+  .md-center {
+    text-align: center;
+    float: none !important;
+  }
+  .md-position-zero {
+    margin-left: 0 !important;
+  }
+}
+@media (max-width: 1600px) {
+  .lg-hidden {
+    display: none;
+  }
+  .lg-float-left {
+    float: left;
+  }
+  .lg-float-right {
+    float: right;
+  }
+  .lg-clearfix {
+    clear: both;
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "1980778",
+  "name": "backStage",
+  "font_family": "bs",
+  "css_prefix_text": "i-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1063464",
+      "name": "关闭",
+      "font_class": "close",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "903840",
+      "name": "选择框后",
+      "font_class": "check-box-on",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "1517009",
+      "name": "选择框",
+      "font_class": "check-box-off",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "19013297",
+      "name": "成功-success",
+      "font_class": "change-success",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "19013306",
+      "name": "编辑-edit",
+      "font_class": "edit",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "19013388",
+      "name": "失败-fail",
+      "font_class": "change-fail",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "2267096",
+      "name": "修改",
+      "font_class": "alter",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "6756285",
+      "name": "菜单",
+      "font_class": "menu",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "8817473",
+      "name": "设置",
+      "font_class": "setting",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "9646544",
+      "name": "删除1",
+      "font_class": "delete",
+      "unicode": "e89c",
+      "unicode_decimal": 59548
+    }
+  ]
+}
